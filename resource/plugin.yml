@@ -1,0 +1,9 @@
+name: ZRPG
+main: cn.plugin.ZRPGMain
+version: "1.0.0"
+api: ["1.0.0"]
+author: zixuan
+
+permissions:
+  ZRPGMain.command.zrpg.chat:
+    default: op
